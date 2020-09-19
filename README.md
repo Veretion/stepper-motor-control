@@ -1,1 +1,1 @@
-# Check-you
+# stepper motor control
